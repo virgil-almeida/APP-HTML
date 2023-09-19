@@ -9,4 +9,5 @@ A landing page template.
 
 ## Link Projeto
 
-https://virgil-almeida.github.io/APP-HTML/
+
+https://otaviomenezes.github.io/APP-HTML/
